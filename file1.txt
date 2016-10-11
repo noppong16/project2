@@ -1,2 +1,3 @@
 line1 Who Am I ? and How do you do ?
 line2 Noppong  and Happy
+line 3 -*-
